@@ -24,6 +24,7 @@ npm install
 ### Development
 Start a local development server at http://localhost:8080/, build project, and watch files.
 ```
+npm install webpack-dev-server@2.9.7 --save-dev
 npm run dev
 ```
 You can access the dev build from any device on the network through your network IP address.
